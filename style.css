@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+  
+h5 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+.container-xxl{
+    background-color: hsl(218, 44%, 22%);
+}
+.card-img-top{
+    padding : 10px !important;
+}
+.tittle-card{
+    text-align: center !important;
+}
+.attribution{
+    padding-bottom: 10%;
+}
